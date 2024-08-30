@@ -3,7 +3,7 @@ Go over basics of C++
 Read C++ book, watch videos, and practice loops
 Go over basics of Javascript
 6/25/24
-Pratice Mr.Dietrich's assignments
+Practice Mr.Dietrich's assignments
 6/26/24
 Read C++ book and practice new topic
 6/27/24
